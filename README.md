@@ -1,6 +1,8 @@
 # code_share
-A collection of random code pieces from different projects over the
-years.
+
+An archived version of `code_share`. A collection of deprecated,
+obsolete or simply ugly code that I wrote over the years.
+
 
 80% of the code I have ever written is in GitHub and this repository
 houses some of that. It includes anything from my first lines of code
@@ -8,10 +10,10 @@ in 2012 to my research paper on a CMS system, to slides I used to
 present my now closed `Mambo Shop` during various competitions and
 other stuff.
 
-Most of the proejcts that are too small to deserve their own repository
+Most of the projects that are too small to deserve their own repository
 are also here.
 
-A lot of the code present here was written durring my 4-year long
+A lot of the code present here was written during my 4-year long
 programming bootcamp.
 
 Some of the languages and frameworks included here:
